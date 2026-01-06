@@ -48,3 +48,9 @@ The dashboard provides a comprehensive view of customer retention:
 * **Demographic Analysis:** Churn distribution by age and geography.
 * **Subscription Analysis:** Insights on users willing to upgrade to Premium.
 * **Risk Assessment:** Identification of high-risk user segments based on model probabilities.
+
+## ✅Conclusion
+This dashboard integrates machine learning predictions with buisness intelligence tools to deliver actionable insights , enabling data-driven customer retention strategies.
+
+## Author
+**Uttkarsh Bhardwaj**
