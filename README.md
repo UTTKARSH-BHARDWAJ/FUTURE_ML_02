@@ -1,7 +1,7 @@
 # FUTURE_ML_02
 Internship Task 2
 
-#Customer Churn Prediction using Machine Learning & Power BI
+#Customer Churn Prediction using Machine Learning & Power BI#
 
 **📌 Project Overview**
 This project focuses on predicting customer churn for Spotify using machine learning models and visualizing insights through an interactive Power BI dashboard.
