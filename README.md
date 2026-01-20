@@ -10,7 +10,7 @@ The goal is to identify users who are likely to cancel their subscriptions and p
 * **EDA:** Perform exploratory data analysis on customer data.
 * **Modeling:** Build and evaluate churn prediction models.
 * **Probabilities:** Generate churn probabilities for each user.
-* **Visualization:** Visualize churn patterns and model outputs in Power BI.
+* **Visualization:** Visualize churn patterns and model outputs in Power BI. 
 * **Insights:** Deliver business-ready insights through dashboards.
 
 ## 📂 Dataset
